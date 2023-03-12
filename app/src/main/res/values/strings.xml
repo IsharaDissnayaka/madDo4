@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Lab$</string>
+    <string name="emaill">Email</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="repassword1">Re-Password</string>
+    <string name="Submit">SUBMIT</string>
+    <string name="cancel">Cancel</string>
+    <string name="password">Password</string>
 </resources>
